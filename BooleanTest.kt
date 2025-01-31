@@ -1,4 +1,4 @@
 fun main(){
-    //test
-    //test2
+    val test = 1
+    println(test)
 }
